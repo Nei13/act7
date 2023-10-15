@@ -1,0 +1,46 @@
+div {
+    background-color: aqua;
+    justify-content: center;
+    align-items: center;
+
+    border-radius: 10px;
+   
+}
+
+#fruitName {
+    background-color: rgb(0, 255, 64);
+    color: black;
+}
+
+
+
+#txt1 {
+    color: blueviolet;
+    
+}
+
+#fruitColor {
+    background-color: hsl(130, 95%, 49%);
+    color: black;
+}
+
+input {
+   
+    justify-content: center;
+    align-items: center;
+    height: 25px;
+    padding-top: 10px;
+    text-align: center;
+    padding-bottom: 10px;
+
+}
+
+#addbtn {
+    background-color: blue;
+    border-radius: 10px;
+}
+
+#fil {
+    background-color: coral;
+    color: aliceblue;
+}
